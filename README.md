@@ -1,6 +1,10 @@
 Simple REACT SPA
 
 
+Stack:
+- Javascript
+- React
+
 Simple React SPA  for employee management. 
 This app allows you to add, delete, and promote employees, as well as adjust their salaries and filter employees based on specific criteria.
 
